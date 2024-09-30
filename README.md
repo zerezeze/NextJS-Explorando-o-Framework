@@ -11,3 +11,5 @@ Este repositório contém exemplos e explorações práticas de funcionalidades 
 - E muito mais!
 
 Deploy no vercel: https://next-js-explorando-o-framework.vercel.app/
+
+<img src="aluracases.png"></img>
